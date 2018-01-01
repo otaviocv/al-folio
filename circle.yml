@@ -23,6 +23,6 @@ test:
 
 deployment:
   production:
-    branch: master
+    branch: source
     commands:
       - ./bin/deploy
