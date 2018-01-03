@@ -5,9 +5,11 @@
     <span class="site-title">
         {% assign name = site.name | split: ' ' %}
         <!-- <strong>{{ name | first }}</strong> -->
-        <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">
-            <strong> {{ name | first }} </strong>
-        </a>
+        <strong>
+            <a class="page-link" href="{{ site.baseurl | prepend: site.url }}/">
+                {{ name | first }}
+            </a>
+        </strong>
     </span>
 
     <nav class="site-nav">
