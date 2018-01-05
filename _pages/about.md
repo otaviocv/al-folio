@@ -14,7 +14,7 @@ news: true
 social: true
 ---
 
-I just beggining my gradutate studies at the <a
+I have just started my gradutate studies at the <a
 href="http://portal.if.usp.br/ifusp/en"> Institute of physics </a> of
 <a href="http://www5.usp.br/english/?lang=en"> University of São Paulo </a>. I
 am trying to use statistical physics to understand neural networks and similar
