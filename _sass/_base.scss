@@ -29,3 +29,10 @@ body {
     padding-left: $horizontal-spacing-unit;
     @extend .clearfix;
 }
+
+.fa-font:before {
+        font-family: roboto;
+        color: #429bf4;
+        // font-size: 1.2em;
+        content: "k";   //any letter of your choice but for kaggle "k"
+}
