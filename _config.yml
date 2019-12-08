@@ -16,6 +16,14 @@ baseurl: # the subpath of your site, e.g. /blog/
 last_updated: # leave blank if you don't want to display last updated
 
 # -----------------------------------------------------------------------------
+# Open Graph
+# -----------------------------------------------------------------------------
+# Display links to the page with a preview object on social media.
+# To achieve this, change serve_og_meta to true and then provide the URL of the
+# preview image as the value of og_image.
+serve_og_meta: false # Include Open Graph meta tags in the HTML head
+og_image: # The site-wide (default for all links) Open Graph preview image
+# -----------------------------------------------------------------------------
 # Social integration
 # -----------------------------------------------------------------------------
 github_username: otaviocv # put your github username
@@ -77,11 +85,13 @@ news_limit: 5
 markdown: kramdown
 highlighter: pygments
 
-# Includes
+# Includes & excludes
 include: ['_pages']
+exclude: [vendor]
 
-# Gems
-gems:
+# Plug-ins
+plugins:
+    - jekyll-email-protect
     - jekyll-paginate
     - jekyll/scholar
     - jemoji
@@ -114,5 +124,5 @@ scholar:
 # Other settings
 # -----------------------------------------------------------------------------
 jquery_version: "1.12.4"
-katex_version: "0.7.1"
+katex_version: "0.9.0"
 anchorjs_version: "3.2.2"
