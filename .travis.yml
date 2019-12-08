@@ -1,6 +1,8 @@
 language: ruby
 rvm:
   - 2.4.1
+env:
+  - USER_NAME=otaviocv USER_EMAIL=otaviocv.deluqui@gmail.com
 
 # Assume bundler is being used, therefore
 # the `install` step will run `bundle install` by default.
