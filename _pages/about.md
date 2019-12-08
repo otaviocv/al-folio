@@ -2,7 +2,7 @@
 layout: about
 permalink: /
 title: <strong>Otávio</strong> Vasques
-description: Graduate student at the Institute of Physics of Universidade de São Paulo, Brazil
+description: Data Scientist looking for awesome code. Open source enthusiast.
 
 profile:
   align: right
@@ -14,24 +14,15 @@ news: true
 social: true
 ---
 
-I have just started my gradutate studies at the <a
-href="http://portal.if.usp.br/ifusp/en"> Institute of physics </a> of
-<a href="http://www5.usp.br/english/?lang=en"> University of São Paulo </a>. I
-am trying to use statistical physics to understand neural networks and similar
-things.
+I am a Data Scientist heavily interested in automating and smoothening the machine learning
+model production proccess. I am constatly searching for solutions of proccess
+automation, model and data versioning, scalabililty tools and any other thing
+that can help data scientists to their work at the enterprise level.
 
-Generally, I am interested in statistical physics and statistical mechanics,
-information theory, machine learning, neural networks, data science, it's aplications on
-artificial intelligence and software development in general.
-
-Currently, I am working as Jr Analyst in the data science team at the
+Currently, I am working as Data Scientit at the
 <a href="https://www.serasaexperian.com.br/datalabs/">
 Experian Latam Datalab </a>
 using the techniques above to understand data and produce insights.
 
-You can get a more detailed version of my cv by clicking
-<a href="{{ site.baseurl }}/assets/resume/ovasquescv-en.html" target="blank">
-here.
-</a>
-
-I am also a sport lover with a special interest in Badminton.
+I have a bunch of other interests, please check my repositories in my github
+account. If you want to get in touch just reach any of the icons below.

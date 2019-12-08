@@ -2,7 +2,7 @@
 # Site settings
 # -----------------------------------------------------------------------------
 name: otaviocv.
-email: otavio@deluqui.com.br
+email: otaviocv.deluqui@gmail.com
 description: > # this means to ignore newlines until "url:"
   My personal website with my projects and daydreams
 footer_text: >
@@ -20,8 +20,8 @@ last_updated: # leave blank if you don't want to display last updated
 # -----------------------------------------------------------------------------
 github_username: otaviocv # put your github username
 facebook_username: otaviocv # put your github username
-# twitter_username: # put your twitter username
-linkedin_username: otávio-vasques-868566135/ # put your linkedin username
+twitter_username: VasquesOtavio
+linkedin_username: otaviocv/ # put your linkedin username
 kaggle_username: otaviocv
 # scholar_authorid: # put your google scholar author id
 contact_note: >
