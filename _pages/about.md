@@ -8,7 +8,7 @@ profile:
   align: right
   image: prof_pic.jpg
   address: >
-    <p>otavio @ deluqui . com . br</p>
+    <p>otaviocv.deluqui@gmail.com</p>
 
 news: true
 social: true
